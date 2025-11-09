@@ -51,6 +51,8 @@ It provides a simple, menu-driven interface to handle **backups**, **system upda
 
 ### 1. Make all scripts executable:
 ```bash
-chmod +x *.sh
+chmod +x ./*.sh
+
+
 
 
